@@ -1,0 +1,11 @@
+# Ignore target folders of all Maven projects
+**/target/
+# Ignore internal IntelliJ files
+.idea
+**/*.iml
+# Ignore Eclipse settings
+.settings
+.classpath
+.project
+# Ignore python built files
+.pyc
